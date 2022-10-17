@@ -128,3 +128,6 @@ button {
     width: 150px;
     
 }
+@media screen and (max-width: 875px){
+    .container-imagens {display: none;}
+}
