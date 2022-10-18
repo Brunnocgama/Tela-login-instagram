@@ -1,9 +1,11 @@
 <h1 align="center"> <img max width=" 25px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"> Tela de Login do Instagran (FAKE) <img max width=" 25px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"</h1>
  <br />
- <h2 align="center"> Projeto realizado na semana programção do zero no <a href="https://rodolfomori.com.br/devclub/">DevClub</a><h/2>
+ <h2 align="center"> Projeto realizado na semana <b>Programção do Zero</b> no <a href="https://rodolfomori.com.br/devclub/">DevClub</a><h/2>
+  <br />  
   <br />
    
-   
+   <img max width="690px" src="https://github.com/Brunnocgama/Tela-login-instagram/blob/master/assets/Redmi%20Instagram.jpg?raw=true" />
+
    
    <h3>Tecnologias Utilizadas:</h3>
    <br />
